@@ -2,9 +2,6 @@
 
 A beautiful, production-grade personal budget tracking app built as a **single HTML file** with zero dependencies. Dark-mode-first fintech-inspired design with glassmorphism cards, smooth animations, and interactive Chart.js visualizations.
 
-🔗 **[Live Demo](https://yourusername.github.io/budgetor/)** ← _replace with your GitHub Pages URL_
-
----
 
 ## ✨ Features
 
@@ -37,15 +34,8 @@ A beautiful, production-grade personal budget tracking app built as a **single H
 2. **Open** `index.html` in any modern browser
 3. Start tracking your budget!
 
-```bash
-git clone https://github.com/yourusername/budgetor.git
-cd budgetor
-# Just open index.html in your browser — that's it!
-```
 
-## 📸 Screenshots
-
-_Add screenshots of your app here_
+_
 
 ## 📁 Project Structure
 
@@ -62,10 +52,5 @@ All data is stored in your browser's `localStorage`:
 - Data is private to your browser — nothing is sent to any server
 - Use the **Export** feature in Settings to back up your data as CSV
 
-## 📄 License
 
-MIT License — free to use, modify, and distribute.
 
----
-
-Made with ❤️ using vanilla web technologies.
