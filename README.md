@@ -43,10 +43,6 @@ cd budgetor
 # Just open index.html in your browser — that's it!
 ```
 
-## 📸 Screenshots
-
-_Add screenshots of your app here_
-
 ## 📁 Project Structure
 
 ```
@@ -68,4 +64,3 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-Made with ❤️ using vanilla web technologies.
